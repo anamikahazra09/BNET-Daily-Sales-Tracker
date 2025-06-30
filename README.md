@@ -54,7 +54,7 @@ The project is split into two main files:
 
 ## Screen Shot of the dashboards
 
-![Sales Dashboard Screenshot](excel_dashboard.png)
+![Sales Dashboard Screenshot](sales analysis.png)
 
 ## 💡 Use Cases
 
