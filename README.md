@@ -52,12 +52,6 @@ The project is split into two main files:
 
 ---
 
-## Screen Shot of the dashboards
-
-![Sales Dashboard](Sales Analysis.png)
-
----
-
 ## 💡 Use Cases
 
 * Sales performance monitoring
