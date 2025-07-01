@@ -54,7 +54,7 @@ The project is split into two main files:
 
 ## Screen Shot of the dashboards
 
-![Sales Dashboard] (BNET-Daily-Sales-Tracker
+![Sales Dashboard](BNET-Daily-Sales-Tracker
 /Sales Analysis.png)
 
 ## 💡 Use Cases
